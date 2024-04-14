@@ -14,9 +14,7 @@ Creating a compelling `README.md` for your personal GitHub profile is a great wa
 - 😄 Pronouns: [Your pronouns]
 - ⚡ Fun fact: [interesting detail about you or your work]
 
-## 🔥 My Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksjpswaroop&show_icons=true&theme=radical)
 
 
 ## 📊 Weekly Development Breakdown
