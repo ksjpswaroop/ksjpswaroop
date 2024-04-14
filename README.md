@@ -26,6 +26,9 @@ JavaScript   2 hrs           ██████▒░░░░░░░░░░
 Other        20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░   5 %
 ```
 <!--END_SECTION:waka-->
+## 🔥 My Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksjpswaroop&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 
