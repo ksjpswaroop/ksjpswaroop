@@ -16,7 +16,8 @@ Creating a compelling `README.md` for your personal GitHub profile is a great wa
 
 ## 🔥 My Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksjpswaroop&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksjpswaroop&show_icons=true&theme=radical)
+
 
 ## 📊 Weekly Development Breakdown
 
