@@ -10,13 +10,20 @@ I'm a passionate technologist with expertise in AI, Machine Learning, and Softwa
 - 💬 Ask me about AI, Machine Learning, Software Architecture, and Cloud Technologies
 - 📫 Reach me on GitHub: [@ksjpswaroop](https://github.com/ksjpswaroop)
 
+## 🧠 Areas of Expertise
+
+- Generative AI, classical ML, and MLOps pipelines
+- Cloud-native architecture on AWS/Azure/GCP
+- Full-stack development with Python, JavaScript/TypeScript, and modern frameworks
+- Distributed systems design, APIs, and data engineering
+
 ## 🔥 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksjpswaroop&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksjpswaroop&show_icons=true&theme=radical&count_private=true&rank_icon=github&hide_border=true)
 
 ## 💻 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ksjpswaroop&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ksjpswaroop&layout=compact&theme=radical&hide_border=true)
 
 ## 🏆 GitHub Trophies
 
@@ -24,11 +31,25 @@ I'm a passionate technologist with expertise in AI, Machine Learning, and Softwa
 
 ## 📈 Contribution Graph
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ksjpswaroop&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ksjpswaroop&theme=radical&hide_border=true)](https://streak-stats.demolab.com)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ksjpswaroop&theme=github-compact&hide_border=true)
 
 ## 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ksjpswaroop&color=brightgreen)
+
+## 🏅 Achievements in 2025
+
+- Built and open-sourced AI utilities that improved model evaluation workflows
+- Delivered talks and workshops on GenAI safety and practical MLOps
+- Maintained consistent contribution cadence across personal and community projects
+
+## 🚀 Plan for 2026
+
+- Ship production-grade AI features with measurable business impact
+- Contribute major features or fixes to at least three open-source projects
+- Mentor and collaborate with the community through talks, guides, and code reviews
 
 ---
 
