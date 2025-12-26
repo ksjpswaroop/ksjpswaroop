@@ -31,7 +31,7 @@ I'm a passionate technologist with expertise in AI, Machine Learning, and Softwa
 
 ## 📈 Contribution Graph
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ksjpswaroop&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ksjpswaroop&theme=radical&hide_border=true)](https://streak-stats.demolab.com)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ksjpswaroop&theme=github-compact&hide_border=true)
 
